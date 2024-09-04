@@ -28,6 +28,6 @@ Traffic congestion is a significant issue that affects daily commuters and overa
   - Pyngrok for exposing the local server
 
 ## How to Run the Project
-1.  Set up your environment variables for API keys:
-2.   Set NGROK_AUTH_TOKEN for ngrok access.
+1.  Set up your environment variables for API keys
+2.  Set NGROK_AUTH_TOKEN for ngrok access
 Replace the placeholder API key in the code with your actual OpenWeatherMap API key.
